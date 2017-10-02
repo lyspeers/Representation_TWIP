@@ -6,7 +6,7 @@ public class Main {
         /*Binary, octal, decimal, hexadecimal, ASCII
         System.out.print(Integer.toHexString((int) hi.charAt(1)));*/
 
-        String a  ="", b = "", c = "", d = "", e  = "", a2  ="", b2 = "", c2 = "", d2 = "", e2  = "", a3  ="", b3 = "", c3 = "", d3 = "", e3  = "";
+        String a  = "", b = "", c = "", d = "", e  = "", a2  = "", b2 = "", c2 = "", d2 = "", e2  = "", a3  = "", b3 = "", c3 = "", d3 = "", e3  = "";
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter a word or phrase less thn 15 characters to be encoded");
         String x = input.nextLine();
