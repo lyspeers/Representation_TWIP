@@ -70,7 +70,6 @@ public class Main {
                     encoder++;
                 }
             }else{
-                System.out.println("Please input a word or phrase less than 15 characters");
                 break;
             }
 
